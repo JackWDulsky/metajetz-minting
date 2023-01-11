@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "OwnableDelegateProxy",
+  "sourceName": "contracts/MetaJetzSparrow977.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220faa79d3dcb661abe5174fcd01d001a0e31f8c737d477b02b98f7e0fbd8f28c8e64736f6c63430008090033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220faa79d3dcb661abe5174fcd01d001a0e31f8c737d477b02b98f7e0fbd8f28c8e64736f6c63430008090033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
