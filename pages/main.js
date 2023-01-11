@@ -1,5 +1,5 @@
 import React from "react";
-import { rsvpSubmit } from "../utils/Helper";
+import { rsvpSubmit } from "../utils/helper";
 
 export default function main() {
     return (
